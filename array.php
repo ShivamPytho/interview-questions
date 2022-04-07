@@ -23,7 +23,7 @@ $sum = 0;
 for ($i = 0; $i < count($arr); $i++) {   
    $sum = $sum + $arr[$i];  
 }    
-print("Sum of all the elements of an array: " . $sum);  
+print("Sum of all the elements of an array : " . $sum);  
 
 
 ?>
